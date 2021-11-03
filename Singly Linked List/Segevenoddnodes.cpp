@@ -12,7 +12,6 @@ class node
 
 //Method 1
 /*The idea is to get pointer to the last node of list. And then traverse the list starting from the head node and move the odd valued nodes from their current position to end of the list.
-Thanks to blunderboy for suggesting this method.
 Algorithm: 
 …1) Get pointer to the last node. 
 …2) Move all the odd nodes to the end. 
